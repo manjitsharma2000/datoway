@@ -44,14 +44,14 @@ const HeaderDashboard = ({ display }) => {
                       className="logo-light"
                       src={logo}
                       width={201}
-                      height={35}
+                      height={45}
                       alt="Corporate Logo"
                     />
                     <Image
                       className="logo-dark"
                       src={logoDark}
                       width={201}
-                      height={35}
+                      height={45}
                       alt="Corporate Logo"
                     />
                   </Link>
