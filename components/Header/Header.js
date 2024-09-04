@@ -53,7 +53,7 @@ const Header = ({ headerTransparent, headerSticky, btnClass }) => {
                     className={isLightTheme ? "logo-light" : "logo-dark"}
                     src={isLightTheme ? logo : logoDark}
                     width={201}
-                    height={auto}
+                    height={45}
                     alt="ChatBot Logo"
                   />
                 </Link>
