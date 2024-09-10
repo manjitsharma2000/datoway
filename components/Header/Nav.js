@@ -20,9 +20,7 @@ const Nav = () => {
   return (
     <>
       <ul className="mainmenu">
-       /* <li>
-          <Link href="/dashboard">Why Datoway</Link>
-        </li>*/
+     
         <li className="with-megamenu has-menu-child-item position-relative">
           <a
             href="#"
@@ -173,10 +171,8 @@ const Nav = () => {
             </div>
           </div>
         </li>
-      /*  <li>
-          <Link href="/pricing">Services</Link>
-        </li>*/
-                          <li className="with-megamenu has-menu-child-item position-relative">
+     
+        <li className="with-megamenu has-menu-child-item position-relative">
           <a
             href="#"
             onClick={() => setShowPage(!showPage)}
