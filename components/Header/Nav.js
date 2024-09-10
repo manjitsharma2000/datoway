@@ -21,7 +21,7 @@ const Nav = () => {
     <>
       <ul className="mainmenu">
         <li>
-          <Link href="/dashboard">Welcome</Link>
+          <Link href="/dashboard">Why Datoway</Link>
         </li>
         <li className="with-megamenu has-menu-child-item position-relative">
           <a
@@ -29,7 +29,7 @@ const Nav = () => {
             onClick={() => setShowItem(!showItem)}
             className={`${!showItem ? "open" : ""}`}
           >
-            Dashboard
+            Product
           </a>
           <div
             className={`rainbow-megamenu right-align with-mega-item-2 ${
@@ -69,7 +69,7 @@ const Nav = () => {
             onClick={() => setShowPage(!showPage)}
             className={`${!showPage ? "open" : ""}`}
           >
-            Pages
+            Solutions
           </a>
           <div
             className={`rainbow-megamenu right-align with-mega-item-2 small ${
@@ -99,7 +99,10 @@ const Nav = () => {
           </div>
         </li>
         <li>
-          <Link href="/pricing">Pricing</Link>
+          <Link href="/pricing">Services</Link>
+        </li>
+                          <li>
+          <Link href="/pricing">Abou</Link>
         </li>
         <li>
           <Link href="/signin">Sign In</Link>
