@@ -33,7 +33,7 @@ const Home = () => {
               <div className="inner text-center mt--60">
                 <h1 className="title display-one">
                   Unlock The Power Of <br />
-                  <span className="theme-gradient">ChatenAI AI</span> With{" "}
+                  <span className="theme-gradient">Datoway AI</span> With{" "}
                   <br />
                   <span className="color-off">Smartest AI</span>
                 </h1>
