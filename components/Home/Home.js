@@ -32,10 +32,10 @@ const Home = () => {
             <div className="col-lg-12">
               <div className="inner text-center mt--60">
                 <h1 className="title display-one">
-                 Unlock Transformation with <br />
+                 Reliable Transformation with <br />
                   <span className="theme-gradient">Data, Insights, </span> and {" "}
                   <br />
-                  <span className="theme-gradient">Reliable Speed.</span>
+                  <span className="theme-gradient"> Speed.</span>
                 </h1>
                 <p className="b1 desc-text">
                   Faster with Data and insight, You can Trust.
