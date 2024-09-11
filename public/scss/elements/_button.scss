@@ -18,7 +18,7 @@ div {
         border-color: transparent;
         border-radius: 8px;
         background-color: transparent;
-        background: linear-gradient(94deg,#dd00ac 10.66%,#7130c3 53.03%,#410093 96.34%,rgba(255,0,238,.26) 191.41%,rgba(255,59,212,0) 191.43%);
+        background: linear-gradient(94deg,#dd00ac 10.66%,#0C2D48 53.03%,#410093 96.34%,rgba(255,0,238,.26) 191.41%,rgba(255,59,212,0) 191.43%);
         background-size: 200% auto;
         transition-duration: 300ms;
         color: var(--color-white);
@@ -48,7 +48,7 @@ div {
         }
         &.bg-light-gradient{
             position: relative;
-            background: radial-gradient(85% 120% at 50% 125%, #ff3bd4 .74%,#7130c3 65%,#0f1021 100%);
+            background: radial-gradient(85% 120% at 50% 125%, #006CB7 .74%,#0C2D48 65%,#0f1021 100%);
             overflow: hidden;
             transition: var(--transition);
             .has-bg-light {
@@ -60,7 +60,7 @@ div {
                 opacity: 0;
                 visibility: hidden;
                 transition: all .3s ease-in-out;
-                background: radial-gradient(85% 142% at 50% 75%, #ff3bd4 .74%,#7130c3 65%,#0f1021 100%);
+                background: radial-gradient(85% 142% at 50% 75%, #006CB7 .74%,#0C2D48 65%,#0f1021 100%);
             }
             & > span {
                 position: relative;
@@ -287,7 +287,7 @@ div {
 
 .rainbow-badge-card {
     background-color: transparent;
-    background: linear-gradient(94deg, #dd00ac 10.66%, #7130c3 53.03%, #410093 96.34%, rgba(255, 0, 238, 0.26) 191.41%, rgba(255, 59, 212, 0) 191.43%);
+    background: linear-gradient(94deg, #dd00ac 10.66%, #0C2D48 53.03%, #410093 96.34%, rgba(255, 0, 238, 0.26) 191.41%, rgba(255, 59, 212, 0) 191.43%);
     padding: 1px 10px;
     border-radius: 100px;
     color: #fff;
