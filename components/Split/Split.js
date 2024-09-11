@@ -37,7 +37,8 @@ const Split = () => {
                       data-sal-duration="400"
                       data-sal-delay="300"
                     >
-                     At Datoway, we create innovative digital solutions that deliver measurable business impact. Our strength lies in a diverse portfolio of advanced products and platforms, supported by top-tier software engineering and transformative digital capabilities. We harness cutting-edge technologies like AI, Machine Learning, and Data Analytics to address complex challenges.
+                    At Datoway, we deliver innovative digital solutions with measurable business impact. Our expertise spans a diverse portfolio of advanced products and platforms, leveraging AI, Machine Learning, and Data Analytics to tackle complex challenges.
+
 
 
 
@@ -50,9 +51,9 @@ const Split = () => {
                       data-sal-duration="400"
                       data-sal-delay="350"
                     >
-                      <li>- Diverse portfolio of advanced digital products and platforms.</li>
+                      <li>- Advanced digital products and platforms..</li>
                       <li>- Expertise in AI, Machine Learning, and Data Analytics.</li>
-                      <li>- Proven track record of driving measurable business outcomes.</li>
+                      <li>- Proven success in achieving business outcomes.</li>
                     </ul>
                     <div
                       className="view-more-button mt--35"
