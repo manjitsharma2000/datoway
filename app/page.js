@@ -2,8 +2,8 @@ import BackToTop from "./backToTop";
 import HomePage from "./home/page";
 
 export const metadata = {
-  title: "Home - || ChatenAI - AI SaaS Website NEXTJS14 UI Kit",
-  description: "ChatenAI - AI SaaS Website NEXTJS14 UI Kit",
+  title: "Home - || Datoway - Beyond Transformation",
+  description: "Datoway - Beyond Transformation",
 };
 
 export default function Home() {
