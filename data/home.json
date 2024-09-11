@@ -1,42 +1,44 @@
 {
+  
   "service": [
     {
-      "title": "Effortless Content AI",
-      "desc": "Let our AI-powered service take the hard work out of content creation. Get started today with AI.",
+      "title": "AI-Powered Software Development",
+      "desc": "Custom software solutions leveraging AI and Machine Learning to optimize business processes, enhance decision-making, and improve overall efficiency.",
       "icon": "activity",
       "delay": 100
     },
     {
-      "title": "Your Words, Our Tech",
-      "desc": "Discover how AI can transform your ideas into engaging with our qualitifull service for a better content.",
+      "title": "Generative AI Solutions",
+      "desc": "Harness the power of Generative AI to create intelligent content generation, automation tools, and innovative customer interactions for your business.",
       "icon": "cast",
       "delay": 100
     },
     {
-      "title": "AI-Powered Writing",
-      "desc": "Access AI-generated content for your blogs, websites, and more with our qualitifull convenient service.",
+      "title": "Data Analytics & Machine Learning",
+      "desc": "Transform raw data into actionable insights with advanced analytics and machine learning models tailored to your specific business needs.",
       "icon": "map",
       "delay": 200
     },
     {
-      "title": "AI Generation Simple",
-      "desc": "Experience the ease of content creation with our AI service. Write less, achieve more.",
+      "title": "Cloud Integration & Automation",
+      "desc": "Streamline your operations by integrating cloud technologies and automating workflows to reduce manual effort and improve scalability.",
       "icon": "loader",
       "delay": 100
     },
     {
-      "title": "Quality AI Content",
-      "desc": "Get professionally written content in no time with our AI service. Quality meets speed.",
+      "title": "Enterprise Digital Transformation",
+      "desc": "End-to-end digital transformation services to help businesses modernize their infrastructure, adopt cutting-edge technologies, and stay competitive.",
       "icon": "speaker",
       "delay": 100
     },
     {
-      "title": "Your Writing Assistant",
-      "desc": "Collaborate with AI to generate content that resonates with your audience. Try it now.",
+      "title": "User-Centric UX/UI Design",
+      "desc": "Craft intuitive and engaging user experiences for web and mobile applications, with a focus on usability, functionality, and brand alignment.",
       "icon": "terminal",
       "delay": 200
     }
   ],
+
   "timeline": [
     {
       "title": "1.Select template",
