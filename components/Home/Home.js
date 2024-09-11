@@ -33,9 +33,9 @@ const Home = () => {
               <div className="inner text-center mt--60">
                 <h1 className="title display-one">
                  Unlock Transformation with <br />
-                  <span className="theme-gradient">Data, Insights, and </span> With{" "}
+                  <span className="theme-gradient">Data, Insights, </span> and {" "}
                   <br />
-                  <span className="color-off">Reliable Speed.</span>
+                  <span className="theme-gradient">Reliable Speed.</span>
                 </h1>
                 <p className="b1 desc-text">
                   Faster with Data and insight, You can Trust.
