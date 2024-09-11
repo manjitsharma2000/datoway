@@ -9340,9 +9340,13 @@ button.btn-transparent:hover::after {
   color: var(--color-primary);
 }
 
-
+/*----------------------------------------------------------------------*/
 /*Custom CSS*/
+/*----------------------------------------------------------------------*/
 
-.rainbow-timeline-area {display:none!important;}
+.rainbow-timeline-area {display:none !important;
+		       }
+.rainbow-pricing-area {display:none !important;
+		      }
 
 /*# sourceMappingURL=style.css.map */
