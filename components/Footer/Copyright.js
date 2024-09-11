@@ -27,7 +27,7 @@ const Copyright = () => {
                 <p className="copyright-text">
                   © 2024
                   <Link
-                    href="https://themeforest.net/user/rainbow-themes"
+                    href="#"
                     className="btn-read-more ps-2"
                   >
                     <span>Datoway</span>
