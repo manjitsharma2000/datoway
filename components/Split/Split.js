@@ -28,7 +28,8 @@ const Split = () => {
                       data-sal-duration="400"
                       data-sal-delay="200"
                     >
-                      Instant Content with AI
+                      Empowering Innovation, Connecting Possibilities
+
                     </h4>
                     <p
                       className="description"
@@ -36,9 +37,12 @@ const Split = () => {
                       data-sal-duration="400"
                       data-sal-delay="300"
                     >
-                      Unlock Conversion-Driven Content: Business Bios, Facebook
-                      Ads, Product Descriptions, Emails, Landing Pages, Social
-                      Ads, and Beyond.
+                     At Datoway, we create innovative digital solutions that deliver measurable business impact. Our strength lies in a diverse portfolio of advanced products and platforms, supported by top-tier software engineering and transformative digital capabilities. We harness cutting-edge technologies like AI, Machine Learning, and Data Analytics to address complex challenges.
+
+
+
+
+
                     </p>
                     <ul
                       className="split-list"
@@ -46,9 +50,9 @@ const Split = () => {
                       data-sal-duration="400"
                       data-sal-delay="350"
                     >
-                      <li>- Craft Articles in Under 20 Seconds.</li>
-                      <li>- Reclaim Hundreds of Valuable Hours with AI</li>
-                      <li>- Elevate Copywriting with Rewriter.</li>
+                      <li>- Diverse portfolio of advanced digital products and platforms.</li>
+                      <li>- Expertise in AI, Machine Learning, and Data Analytics.</li>
+                      <li>- Proven track record of driving measurable business outcomes.</li>
                     </ul>
                     <div
                       className="view-more-button mt--35"
@@ -57,7 +61,7 @@ const Split = () => {
                       data-sal-delay="400"
                     >
                       <Link className="btn-default" href="/contact">
-                        Contact With Us
+                        About Datoway
                       </Link>
                     </div>
                   </div>
