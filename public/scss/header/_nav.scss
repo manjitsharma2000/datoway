@@ -28,13 +28,13 @@
 
                 &:hover,
                 &.active {
-                    color: #FF3BD4 !important;
+                    color: #006CB7 !important;
                 }
             }
 
             &.current {
                 >a {
-                    color: #FF3BD4 !important;
+                    color: #006CB7 !important;
                 }
             }
         }
@@ -73,12 +73,12 @@
                             @extend %transition;
 
                             &:hover {
-                                color: #FF3BD4 !important;
+                                color: #006CB7 !important;
                                 background: var(--color-darker);
                             }
 
                             &.active {
-                                color: #FF3BD4 !important;
+                                color: #006CB7 !important;
                                 background: var(--color-darker);
                             }
                         }
@@ -151,7 +151,7 @@
 
                                     &:hover,
                                     &.active {
-                                        color: #FF3BD4 !important;
+                                        color: #006CB7 !important;
                                         background: var(--color-darker);
                                     }
                                 }
