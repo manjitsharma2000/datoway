@@ -7,12 +7,12 @@ import Home from "@/components/Home/Home";
 import Service from "@/components/Service/Service";
 import Context from "@/context/Context";
 import Separator from "../separator";
-import Timeline from "@/components/Timeline/Timeline";
+//import Timeline from "@/components/Timeline/Timeline";
 import Split from "@/components/Split/Split";
-import Pricing from "@/components/Pricing/Pricing";
-import Accordion from "@/components/Accordion/Accordion";
+//import Pricing from "@/components/Pricing/Pricing";
+//import Accordion from "@/components/Accordion/Accordion";
 import Brands from "@/components/Brands/Brands";
-import CallToAction from "@/components/CallToAction/CallToAction";
+//import CallToAction from "@/components/CallToAction/CallToAction";
 import Footer from "@/components/Footer/Footer";
 import Copyright from "@/components/Footer/Copyright";
 
