@@ -32,13 +32,13 @@ const Home = () => {
             <div className="col-lg-12">
               <div className="inner text-center mt--60">
                 <h1 className="title display-one">
-                  Unlock The Power Of <br />
-                  <span className="theme-gradient">Datoway AI</span> With{" "}
+                 Unlock Transformation with <br />
+                  <span className="theme-gradient">Data, Insights, and </span> With{" "}
                   <br />
-                  <span className="color-off">Smartest AI</span>
+                  <span className="color-off">Reliable Speed.</span>
                 </h1>
                 <p className="b1 desc-text">
-                  AI-Powered Copywriting A Game-Changer in Content Creation.
+                  Faster with Data and insight, You can Trust.
                 </p>
                 <div className="button-group">
                   <Link
@@ -46,10 +46,10 @@ const Home = () => {
                     href="/text-generator"
                   >
                     <div className="has-bg-light"></div>
-                    <span>Start writing for free</span>
+                    <span>Learn more</span>
                   </Link>
                 </div>
-                <p className="color-gray mt--5">💳 No credit card required!</p>
+                <p className="color-gray mt--5"></p>
               </div>
             </div>
             <div className="col-lg-10 col-xl-10 order-1 order-lg-2">
