@@ -92,8 +92,43 @@
     }
 
   ],
+	
 
+ "navServicesItem": [
+    {
+      "link": "/styleguide",
+      "text": "Artificial Intelligence",
+      "badge": "Hot",
+      "isComing": false
+    },
+    {
+      "link": "/blog",
+      "text": "Cloud & DevOps",
+      "badge": "",
+      "isComing": false
+    },
+    {
+      "link": "/blog-detail",
+      "text": "Data Engineering",
+      "badge": "",
+      "isComing": false
+    },
+    {
+      "link": "/pricing",
+      "text": "Digital/UX",
+      "badge": "",
+      "isComing": false
+    },
 
+    {
+      "link": "/contact",
+      "text": "Data Science",
+      "badge": "",
+      "isComing": false
+    }
+
+  ],
+  
     "navAboutItem": [
     {
       "link": "/styleguide",
