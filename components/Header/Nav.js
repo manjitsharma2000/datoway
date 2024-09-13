@@ -77,10 +77,10 @@ const Nav = () => {
             <div className="wrapper p-0">
               <div className="row row--0">
                 <div className="col-lg-6 single-mega-item">
-                  <h3 className="rbt-short-title">DASHBOARD PAGES </h3>
+                  <h3 className="rbt-short-title">Product PAGES </h3>
                   <ul className="mega-menu-item">
                     {DashboardItem &&
-                      DashboardItem.navDashboardItem.map((data, index) => (
+                      DashboardItem.navProductItem.map((data, index) => (
                         <li key={index}>
                           <Link
                             href={data.link}
