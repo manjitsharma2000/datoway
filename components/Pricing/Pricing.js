@@ -3,7 +3,7 @@
 import React, { useEffect } from "react";
 import sal from "sal.js";
 
-import PricingData from "../../data/home.json";
+//import PricingData from "../../data/home.json";
 import Link from "next/link";
 
 const Pricing = () => {
