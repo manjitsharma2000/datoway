@@ -40,7 +40,7 @@ const Nav = () => {
                   <h3 className="rbt-short-title">DASHBOARD PAGES</h3>
                   <ul className="mega-menu-item">
                     {DashboardItem &&
-                      DashboardItem.navDashboardItem.map((data, index) => (
+                      DashboardItem.navWhyDatowayItem.map((data, index) => (
                         <li key={index}>
                           <Link
                             href={data.link}
@@ -80,7 +80,7 @@ const Nav = () => {
                   <h3 className="rbt-short-title">DASHBOARD PAGES </h3>
                   <ul className="mega-menu-item">
                     {DashboardItem &&
-                      DashboardItem.navDashboardItem.map((data, index) => (
+                      DashboardItem.navProductItem.map((data, index) => (
                         <li key={index}>
                           <Link
                             href={data.link}
