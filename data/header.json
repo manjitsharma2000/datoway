@@ -92,7 +92,53 @@
     }
 
   ],
+
+
+    "navAboutItem": [
+    {
+      "link": "/styleguide",
+      "text": "Company",
+      "badge": "Hot",
+      "isComing": false
+    },
+    {
+      "link": "/blog",
+      "text": "Our Core Value",
+      "badge": "",
+      "isComing": false
+    },
+    {
+      "link": "/blog-detail",
+      "text": "Leaderships",
+      "badge": "",
+      "isComing": false
+    },
+    {
+      "link": "/pricing",
+      "text": "Events & News",
+      "badge": "",
+      "isComing": false
+    },
+
+    {
+      "link": "/contact",
+      "text": "Articles",
+      "badge": "",
+      "isComing": false
+    },
+    {
+      "link": "/signin",
+      "text": "Partners",
+      "badge": "",
+      "isComing": false
+    }
+
+  ],
  
+
+
+
+  
   "toolsItem": [
     {
       "link": "/text-generator",
