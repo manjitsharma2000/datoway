@@ -79,42 +79,7 @@
       "badge": "",
       "isComing": false
     },
-    {
-      "link": "/signup",
-      "text": "Sign Up",
-      "badge": "",
-      "isComing": false
-    },
-    {
-      "link": "/team",
-      "text": "Team",
-      "badge": "",
-      "isComing": false
-    },
-    {
-      "link": "/roadmap",
-      "text": "Roadmap",
-      "badge": "",
-      "isComing": false
-    },
-    {
-      "link": "/utilize",
-      "text": "How to use",
-      "badge": "",
-      "isComing": false
-    },
-    {
-      "link": "/terms-policy",
-      "text": "Terms & Policy",
-      "badge": "",
-      "isComing": false
-    },
-    {
-      "link": "/privacy-policy",
-      "text": "Privacy Policy",
-      "badge": "",
-      "isComing": false
-    }
+
   ],
  
   "toolsItem": [
