@@ -1,9 +1,8 @@
 import AppearancePage from "./index";
 
 export const metadata = {
-  title: "Appearance - Simply Consistent",
-  description: "Reliable Transformation with Data, Insights and Speed",
-
+  title: "Appearance - AI SaaS Website NEXTJS14 UI Kit",
+  description: "ChatenAI - AI SaaS Website NEXTJS14 UI Kit",
 };
 
 const AppearanceLayout = () => {
