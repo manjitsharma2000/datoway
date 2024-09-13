@@ -6,7 +6,6 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 import DashboardItem from "../../data/header.json";
-import ProductItem from "../../data/header.json";
 
 import menuImg from "../../public/images/menu-img/menu-img-2.png";
 import { useAppContext } from "@/context/Context";
@@ -80,8 +79,8 @@ const Nav = () => {
                 <div className="col-lg-6 single-mega-item">
                   <h3 className="rbt-short-title">DASHBOARD PAGES </h3>
                   <ul className="mega-menu-item">
-                    {ProductItem &&
-                      ProductItem.navProductItem.map((data, index) => (
+                    {DashboardItem &&
+                      DashboardItem.navWhyDatowayItem.map((data, index) => (
                         <li key={index}>
                           <Link
                             href={data.link}
