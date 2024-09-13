@@ -2,43 +2,27 @@
   "navDashboardItem": [
     {
       "link": "/profile-details",
-      "text": "Profile"
+      "text": "Data Management"
     },
      {
       "link": "/profile-details",
-      "text": "Cloud & DevOps"
+      "text": "Data Warehousing"
     },
     {
       "link": "/notification",
-      "text": "Notification"
+      "text": "Real-Time Analytics"
     },
     {
       "link": "/chat-export",
-      "text": "Chat Export"
+      "text": "Data Engineering"
     },
     {
       "link": "/appearance",
-      "text": "Appearance"
+      "text": "Business Intelligence"
     },
     {
       "link": "/plans-billing",
-      "text": "Plans and Billing"
-    },
-    {
-      "link": "/sessions",
-      "text": "Sessions"
-    },
-    {
-      "link": "/application",
-      "text": "Application"
-    },
-    {
-      "link": "/release-notes",
-      "text": "Release notes"
-    },
-    {
-      "link": "/help",
-      "text": "Help & FAQs"
+      "text": "Data Sciences"
     }
   ],
     "navPageItem": [
