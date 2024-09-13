@@ -41,41 +41,41 @@
       "text": "Help & FAQs"
     }
   ],
-  "navPageItem": [
+    "navPageItem": [
     {
       "link": "/styleguide",
-      "text": "Style Guide",
+      "text": "Retail",
       "badge": "Hot",
       "isComing": false
     },
     {
       "link": "/blog",
-      "text": "Blog",
+      "text": "Financial",
       "badge": "",
       "isComing": false
     },
     {
       "link": "/blog-detail",
-      "text": "Blog Details",
+      "text": "Engineering",
       "badge": "",
       "isComing": false
     },
     {
       "link": "/pricing",
-      "text": "Pricing",
+      "text": "Communication",
       "badge": "",
       "isComing": false
     },
 
     {
       "link": "/contact",
-      "text": "Contact",
+      "text": "Healthcare & LifeScinces",
       "badge": "",
       "isComing": false
     },
     {
       "link": "/signin",
-      "text": "Sign In",
+      "text": "Manufacturing",
       "badge": "",
       "isComing": false
     },
@@ -116,6 +116,7 @@
       "isComing": false
     }
   ],
+ 
   "toolsItem": [
     {
       "link": "/text-generator",
