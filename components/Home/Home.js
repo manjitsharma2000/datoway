@@ -46,7 +46,7 @@ const Home = () => {
                     href="/text-generator"
                   >
                     <div className="has-bg-light"></div>
-                    <span>Learn more</span>
+                    <span>Explore our capabilities</span>
                   </Link>
                 </div>
                 <p className="color-gray mt--5"></p>
