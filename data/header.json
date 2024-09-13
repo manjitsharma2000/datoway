@@ -25,6 +25,33 @@
       "text": "Data Sciences"
     }
   ],
+"navProductItem": [
+    {
+      "link": "/profile-details",
+      "text": "Data Management"
+    },
+     {
+      "link": "/profile-details",
+      "text": "Cloud Security"
+    },
+    {
+      "link": "/notification",
+      "text": "Cloud & DevOps"
+    },
+    {
+      "link": "/chat-export",
+      "text": "Data Engineering"
+    },
+    {
+      "link": "/appearance",
+      "text": "Business Intelligence"
+    },
+    {
+      "link": "/plans-billing",
+      "text": "Data Sciences"
+    }
+  ],
+  
     "navPageItem": [
     {
       "link": "/styleguide",
