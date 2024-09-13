@@ -155,7 +155,7 @@ const Nav = () => {
                   <h3 className="rbt-short-title">Inner Pages</h3>
                   <ul className="mega-menu-item">
                     {DashboardItem &&
-                      DashboardItem.navPageItem.map((data, index) => (
+                      DashboardItem.navServicesItem.map((data, index) => (
                         <li key={index}>
                           <Link
                             href={data.link}
