@@ -34,13 +34,13 @@ const HomePage = () => {
           <Service />
           <Separator top={true} />
           {/* <Timeline /> */}
-          <Separator top={false} />
+          {/* <Separator top={false} /> */}
           <Split />
           <Separator top={true} />
           {/* <Pricing /> */}
-          <Separator top={true} />
+          {/* <Separator top={false} /> */}
               {/* <Accordion isHead={true} /> */}
-          <Separator top={false} />
+{/*  <Separator top={false} /> */}
           <Brands />
           <Separator top={true} />
               {/* <CallToAction /> */}
