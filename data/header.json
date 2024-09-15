@@ -1,27 +1,27 @@
 {
   "navDashboardItem": [
     {
-      "link": "/profile-details",
+      "link": "/blog-detail",
       "text": "For Executives"
     },
      {
-      "link": "/profile-details",
+      "link": "/blog-detail",
       "text": "For Start ups"
     },
     {
-      "link": "/notification",
+      "link": "/blog-detail",
       "text": "Cloud & DevOps"
     },
     {
-      "link": "/chat-export",
+      "link": "/blog-detail",
       "text": "Data Engineering"
     },
     {
-      "link": "/appearance",
+      "link": "/blog-detail",
       "text": "Business Intelligence"
     },
     {
-      "link": "/plans-billing",
+      "link": "/blog-detail",
       "text": "Data Sciences"
     }
   ],
@@ -167,7 +167,13 @@
       "badge": "",
       "isComing": false
     }
-
+{
+      "link": "/contact",
+      "text": "Contact us",
+      "badge": "",
+      "isComing": false
+    },
+	    
   ],
  
 
