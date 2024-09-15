@@ -7,6 +7,7 @@ import { usePathname } from "next/navigation";
 
 import DashboardItem from "../../data/header.json";
 
+import menuImg1 from "../../public/images/menu-img/menu-img-1.png";
 import menuImg from "../../public/images/menu-img/menu-img-2.png";
 import { useAppContext } from "@/context/Context";
 
@@ -94,7 +95,7 @@ const Nav = () => {
                 </div>
                 <div className="col-lg-6 single-mega-item">
                   <div className="header-menu-img">
-                    <Image src={menuImg} alt="Menu Split Image" />
+                    <Image src={menuImg1} alt="Menu Split Image" />
                   </div>
                 </div>
               </div>
