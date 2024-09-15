@@ -38,7 +38,7 @@ const Nav = () => {
             <div className="wrapper p-0">
               <div className="row row--0">
                 <div className="col-lg-6 single-mega-item">
-                  <h3 className="rbt-short-title">DASHBOARD PAGES</h3>
+                  <h3 className="rbt-short-title">Getting Started</h3>
                   <ul className="mega-menu-item">
                     {DashboardItem &&
                       DashboardItem.navDashboardItem.map((data, index) => (
@@ -68,7 +68,7 @@ const Nav = () => {
             onClick={() => setShowItem(!showItem)}
             className={`${!showItem ? "open" : ""}`}
           >
-            Product
+            Platform
           </a>
           <div
             className={`rainbow-megamenu right-align with-mega-item-2 ${
@@ -78,7 +78,7 @@ const Nav = () => {
             <div className="wrapper p-0">
               <div className="row row--0">
                 <div className="col-lg-6 single-mega-item">
-                  <h3 className="rbt-short-title">Product PAGES </h3>
+                  <h3 className="rbt-short-title">Product </h3>
                   <ul className="mega-menu-item">
                     {DashboardItem &&
                       DashboardItem.navProductItem.map((data, index) => (
@@ -94,6 +94,7 @@ const Nav = () => {
                   </ul>
                 </div>
                 <div className="col-lg-6 single-mega-item">
+                         <h3 className="rbt-short-title">Demo</h3>
                   <div className="header-menu-img">
                     <Image src={menuImg1} alt="Menu Split Image" />
                   </div>
