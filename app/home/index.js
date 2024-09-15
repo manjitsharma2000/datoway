@@ -1,7 +1,7 @@
 "use client";
 
-import HeaderDashboard from "@/components/Header/HeaderDashboard";
-// import Header from "@/components/Header/Header";
+// import HeaderDashboard from "@/components/Header/HeaderDashboard";
+import Header from "@/components/Header/Header";
 // import HeaderTop from "@/components/Header/HeaderTop/Header-Top";
 import PopupMobileMenu from "@/components/Header/PopupMobileMenu";
 import Home from "@/components/Home/Home";
@@ -23,7 +23,7 @@ const HomePage = () => {
       <main className="page-wrapper">
         <Context>
     {/* <HeaderTop /> */}
-          <HeaderDashboard
+          <Header
             headerTransparent="header-not-transparent"
             headerSticky="header-sticky"
             btnClass="btn-small round"
