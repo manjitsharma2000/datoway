@@ -32,17 +32,17 @@ const HomePage = () => {
           <Home />
           <Service />
           <Separator top={true} />
-          //<Timeline />
+              {/*<Timeline />*/}
           <Separator top={false} />
           <Split />
           <Separator top={true} />
-          //<Pricing />
+              {/*<Pricing />*/}
           <Separator top={true} />
-          //<Accordion isHead={true} />
+              {/*<Accordion isHead={true} / */>}
           <Separator top={false} />
           <Brands />
           <Separator top={true} />
-          //<CallToAction />
+          {/* <CallToAction /> */}
 
           <Footer />
           <Copyright />
