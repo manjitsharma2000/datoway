@@ -22,8 +22,8 @@ const HomePage = () => {
     <>
       <main className="page-wrapper">
         <Context>
-          <HeaderTop />
-          <Header
+    {/* <HeaderTop /> */}
+          <HeaderDashboard
             headerTransparent="header-not-transparent"
             headerSticky="header-sticky"
             btnClass="btn-small round"
