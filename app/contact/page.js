@@ -1,8 +1,8 @@
 import ContactPage from "./index";
 
 export const metadata = {
-  title: "Contact || ChatenAI - AI SaaS Website NEXTJS14 UI Kit",
-  description: "ChatenAI || ChatenAI - AI SaaS Website NEXTJS14 UI Kit",
+  title: "Contact || Datoway - AI SaaS Website NEXTJS14 UI Kit",
+  description: "Datoway || AI SaaS Website NEXTJS14 UI Kit",
 };
 
 const ContactLayout = () => {
