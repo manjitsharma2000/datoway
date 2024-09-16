@@ -42,7 +42,7 @@ const HomePage = () => {
               {/* <Accordion isHead={true} /> */}
 {/*  <Separator top={false} /> */}
           <Brands />
-          <Separator top={true} />
+            {/* <Separator top={true} /> */}
               {/* <CallToAction /> */}
 
           <Footer />
